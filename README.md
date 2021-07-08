@@ -1,2 +1,2 @@
-# Pulgin_VS
+# ODIN Project
 Visual Studio C# Pulgin
